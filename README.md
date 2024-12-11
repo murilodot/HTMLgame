@@ -1,4 +1,7 @@
 # Jogo de Defesa com Torretas
+TESTE NOSSO JOGO: 
+https://murilodot.github.io/HTMLgame/
+
 
 Este é um jogo simples de defesa onde você controla uma torreta e deve destruir inimigos que se aproximam. O objetivo é evitar que os inimigos cheguem à torreta e aumente sua pontuação matando-os.
 
